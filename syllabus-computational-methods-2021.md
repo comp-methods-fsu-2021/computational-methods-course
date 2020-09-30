@@ -144,16 +144,3 @@ Every student will produce a website containing her or his transformed and enric
 
 ### Apr. 14: Sharing II
 **Exercise:** TBA
-
-
-## Ideas
-- every day, use one rough and ready version, then one more complex version. e.g. Excel then Tableau, Acrobat then Google docs, Google maps then ..., Topic Modelling Tool, 
-
-## Simple tools
-- Google n-gram
-- Google sheets
-- Google maps
-- [Breve](http://hdlab.stanford.edu/breve/)
-- [Raw Graphs](https://app.rawgraphs.io/)
-- [Flourish](https://flourish.studio/)
-- [Basic Data](https://databasic.io/en/)
