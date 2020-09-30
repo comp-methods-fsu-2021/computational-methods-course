@@ -15,9 +15,9 @@ By the end of this course, students will have
 
 ## Required Materials
 ### In hard copy:
-- Claire Lemercier and Claire Zalc, _Quantitative Methods in the Humanities: An Introduction_ (University of Virginia Press, 2019).
-- Ted Underwood, _Distant Horizons: Digital Evidence and Literary Change_ (University of Chicago Press, 2019).
-- Kieran Healy, _Data Visualization: A Practical Introduction_ (Princeton University Press, 2019).
+- Claire Lemercier and Claire Zalc, _Quantitative Methods in the Humanities: An Introduction_ (University of Virginia Press, 2019). [book]() [companion website](https://quanthum.hypotheses.org/)
+- Ted Underwood, _Distant Horizons: Digital Evidence and Literary Change_ (University of Chicago Press, 2019). [book](https://press.uchicago.edu/ucp/books/book/chicago/D/bo35853783.html)
+- Kieran Healy, _Data Visualization: A Practical Introduction_ (Princeton University Press, 2019). [book](https://press.princeton.edu/books/hardcover/9780691181615/data-visualization) [companion website](https://socviz.co/)
 
 ### Online:
 - Catherine D’Ignazio and Lauren Klein, [Data Feminism](https://data-feminism.mitpress.mit.edu/pub/frfa9szd/release/3?readingCollection=0cd867ef) (MIT Press, 2020).
@@ -37,7 +37,7 @@ Every student will produce a website containing her or his transformed and enric
 
 **Exercise:** Take a text already in rough digital form, e.g. from archive.org; perform quick transformation, use simple web-based tools.
 
-**Quick Tool:** Sublime Text
+**Quick Tool:** [Sublime Text](https://www.sublimetext.com/)
 
 ---
 
@@ -70,37 +70,37 @@ Every student will produce a website containing her or his transformed and enric
 
 ---
 
-### Feb. 3: Cleaning
+### Feb. 3: Cleaning I
 **Exercise:** Post a cleaned, regularized table or set of tables derived from a transformation of your primary source.
 
 **Reading:** Lemercier and Zalc
 
-**Slow Tool:** Open Refine
+**Slow Tool:** [Open Refine](https://openrefine.org/)
 
 ---
 
-### Feb. 10: Visualization
+### Feb. 10: Visualization I
 **Exercise:** Share a range of visualizations of your primary source.
 
 **Reading:** Healy
 
-**Slow Tool:** Tableau
+**Slow Tool:** [Tableau](https://public.tableau.com/en-us/s/)
 
 ---
 
-### Feb. 17: Tidy Data
+### Feb. 17: Quantification I
 **Exercise:** Share an R workbook visualizing material from your primary source.
 
 **Reading:** Lemercier and Zalc
 
-**Slow Tool:** R Studio
+**Slow Tool:** [R Studio](https://rstudio.com/)
 
 ---
 
-### Feb. 24: Sharing
+### Feb. 24: Sharing I
 **Exercise:** Make a preliminary version of your Hugo or Jekyll website live.
 
-**Slow Tool:** Hugo or Jekyll
+**Slow Tool:** [Hugo](https://gohugo.io/) or [Jekyll](https://jekyllrb.com/)
 
 ---
 
@@ -109,7 +109,7 @@ Every student will produce a website containing her or his transformed and enric
 
 **Reading:** Underwood
 
-**Quick Tool:** TopicModelingTool
+**Quick Tool:** [TopicModelingTool](https://senderle.github.io/topic-modeling-tool/documentation/2017/01/06/quickstart.html)
 
 ---
 
@@ -123,24 +123,24 @@ Every student will produce a website containing her or his transformed and enric
 ---
 
 ### Mar. 17: Open Formats II
-**Exercise:** TBA
+**Exercise:** Enriched, cleaned primary source posted to website.
 
 ---
 
 ### Mar. 24: Quantification II
-**Exercise:** TBA
+**Exercise:** Enriched, cleaned data tables derived from primary source posted to website.
 
 ---
 
 ### Mar. 31: Cleaning II
-**Exercise:** TBA
+**Exercise:** Documentation posted to website.
 
 ---
 
 ### Apr. 7: Visualization II
-**Exercise:** TBA
+**Exercise:** Data visualizations and workbooks posted to website.
 
 ---
 
 ### Apr. 14: Sharing II
-**Exercise:** TBA
+**Exercise:** No weekly exercise is due following this class. The final version of websites will be due at the end of the following week (April 23).
