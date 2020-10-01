@@ -1,5 +1,5 @@
 # Computational Methods in the Humanities
-## Will Hanley whanley@fsu.edu
+## Will Hanley, whanley@fsu.edu
 ### HIS 6934-0003, Wednesday 9-12
 
 This course is a practical introduction to computational research methods. It trains graduate students in digital analysis of the kinds of primary materials used in history, literature, religion, classics, and related fields. Students will learn to transform closed textual materials (such as PDFs and microfilms) into open formats, then experiment with methods to analyse and enrich those materials. Students are encouraged to work with primary materials from their own specialized fields of research focus. We will also do some limited reading of theoretical work related to the methods we learn. Prior knowledge of computational methods is not required.
@@ -15,12 +15,12 @@ By the end of this course, students will have
 
 ## Required Materials
 ### In hard copy:
-- Claire Lemercier and Claire Zalc, _Quantitative Methods in the Humanities: An Introduction_ (University of Virginia Press, 2019). [book]() [companion website](https://quanthum.hypotheses.org/)
-- Ted Underwood, _Distant Horizons: Digital Evidence and Literary Change_ (University of Chicago Press, 2019). [book](https://press.uchicago.edu/ucp/books/book/chicago/D/bo35853783.html)
-- Kieran Healy, _Data Visualization: A Practical Introduction_ (Princeton University Press, 2019). [book](https://press.princeton.edu/books/hardcover/9780691181615/data-visualization) [companion website](https://socviz.co/)
+- Claire Lemercier and Claire Zalc, [*Quantitative Methods in the Humanities: An Introduction*](https://www.upress.virginia.edu/title/5168) (University of Virginia Press, 2019). [companion website](https://quanthum.hypotheses.org/)
+- Ted Underwood, [*Distant Horizons: Digital Evidence and Literary Change*](https://press.uchicago.edu/ucp/books/book/chicago/D/bo35853783.html) (University of Chicago Press, 2019).
+- Kieran Healy, [*Data Visualization: A Practical Introduction*](https://press.princeton.edu/books/hardcover/9780691181615/data-visualization) (Princeton University Press, 2019). [companion website](https://socviz.co/)
 
 ### Online:
-- Catherine D’Ignazio and Lauren Klein, [Data Feminism](https://data-feminism.mitpress.mit.edu/pub/frfa9szd/release/3?readingCollection=0cd867ef) (MIT Press, 2020).
+- Catherine D’Ignazio and Lauren Klein, [*Data Feminism*](https://data-feminism.mitpress.mit.edu/pub/frfa9szd/release/3?readingCollection=0cd867ef) (MIT Press, 2020).
 
 ## Grading
 **Weekly exercises (5% per week) 70%** 
@@ -35,9 +35,9 @@ Every student will produce a website containing her or his transformed and enric
 
 ### Jan. 6: Introduction
 
-**Exercise:** Take a text already in rough digital form, e.g. from archive.org; perform quick transformation, use simple web-based tools.
+**Exercise:** Take a text already in rough digital form, e.g. from [archive.org](https://archive.org/); perform quick transformations, use simple web-based tools.
 
-**Quick Tool:** [Sublime Text](https://www.sublimetext.com/)
+**Quick Tool:** [Sublime Text](https://www.sublimetext.com/), [Palladio](http://hdlab.stanford.edu/palladio/)
 
 ---
 
@@ -66,7 +66,7 @@ Every student will produce a website containing her or his transformed and enric
 
 **Suggested tutorial:** Dennis Tenen and Grant Wythoff, "Sustainable Authorship in Plain Text using Pandoc and Markdown," The Programming Historian 3 (2014), https://doi.org/10.46430/phen0041.
 
-**Quick Tools:** [Regular expressions](regexr.com)
+**Quick Tool:** [Regular expressions](https://regexr.com)
 
 ---
 
@@ -75,6 +75,7 @@ Every student will produce a website containing her or his transformed and enric
 
 **Reading:** Lemercier and Zalc
 
+**Quick Tool:** Google Sheets, Microsoft Excel, [Breve](http://hdlab.stanford.edu/breve/)
 **Slow Tool:** [Open Refine](https://openrefine.org/)
 
 ---
@@ -84,6 +85,7 @@ Every student will produce a website containing her or his transformed and enric
 
 **Reading:** Healy
 
+**Quick Tool:** [Raw Graphs](https://app.rawgraphs.io/), [Google Data Studio](https://datastudio.google.com/overview)
 **Slow Tool:** [Tableau](https://public.tableau.com/en-us/s/)
 
 ---
