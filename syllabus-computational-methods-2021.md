@@ -25,7 +25,7 @@ By the end of this course, students will have
 ## Grading
 **Weekly exercises (5% per week) 70%** 
 
-Each week's meeting will begin with a review of the previous week's exercise. You will submit the deliverable by midnight on the night before class. Come prepared to discuss your work process, challenges, and any points of interest. These exercises will be graded on a completion basis. Satisfactory work receives full marks. Unsatisfactory work can be resubmitted until it is satisfactory.
+Each week's meeting will begin with a review of the previous week's exercise. You will submit the deliverable by midnight on the night before class. You will document your work process, and offer a brief assessment of the research potential and problems you see in the exercise, as well the next steps you might pursue. These exercises will be graded on a completion basis. Satisfactory work receives full marks. Unsatisfactory work can be resubmitted until it is satisfactory.
 
 **Website 30%** 
 
@@ -35,7 +35,7 @@ Every student will produce a website containing her or his transformed and enric
 
 ### Jan. 6: Introduction
 
-**Exercise:** Take a text already in rough digital form, e.g. from [archive.org](https://archive.org/); perform quick transformations, use simple web-based tools.
+**Exercise:** Find a text of interest to you already in rough digital form, e.g. from [archive.org](https://archive.org/); perform quick transformations, use simple web-based tools.
 
 **Quick Tool:** [Sublime Text](https://www.sublimetext.com/), [Voyant](https://voyant-tools.org/), [Palladio](http://hdlab.stanford.edu/palladio/)
 
@@ -43,7 +43,7 @@ Every student will produce a website containing her or his transformed and enric
 
 ### Jan. 13: Corpora
 
-**Exercise:** Identify a texual primary source in closed format and transform it into plain text. Students are welcome to identify a source from their own field of interest. Suggested data-rich sources with broad coverage:
+**Exercise:** Identify a texual primary source in closed format and transform it into plain text. Students are encouraged to identify a source from their own field of interest that includes quantitative as well as qualitative material (ideally in the form of lists). Suggested data-rich sources with broad coverage:
 
 - Almanach de Gotha, in French and German. [Hathi has 1880 - 1897 from Penn State]
 - English language equivalents include Burke's Peerage (UK), Social Register (US).
@@ -71,7 +71,7 @@ Every student will produce a website containing her or his transformed and enric
 ---
 
 ### Feb. 3: Cleaning I
-**Exercise:** Post a cleaned, regularized table or set of tables derived from a transformation of your primary source.
+**Exercise:** Post a cleaned, regularized set of tables derived from a transformation of your primary source.
 
 **Reading:** Lemercier and Zalc
 
@@ -107,7 +107,7 @@ Every student will produce a website containing her or his transformed and enric
 ---
 
 ### Mar. 3: Text Mining
-**Exercise:** Produce word frequency comparison between your primary source and some reference sources.
+**Exercise:** Produce word frequency comparison between your primary source and appropriate reference sources.
 
 **Reading:** Underwood
 
