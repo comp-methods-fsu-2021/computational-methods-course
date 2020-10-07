@@ -37,7 +37,7 @@ Every student will produce a website containing her or his transformed and enric
 
 **Exercise:** Take a text already in rough digital form, e.g. from [archive.org](https://archive.org/); perform quick transformations, use simple web-based tools.
 
-**Quick Tool:** [Sublime Text](https://www.sublimetext.com/), [Palladio](http://hdlab.stanford.edu/palladio/)
+**Quick Tool:** [Sublime Text](https://www.sublimetext.com/), [Voyant](https://voyant-tools.org/), [Palladio](http://hdlab.stanford.edu/palladio/)
 
 ---
 
