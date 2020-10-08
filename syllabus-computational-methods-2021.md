@@ -43,10 +43,7 @@ Every student will produce a website containing her or his transformed and enric
 
 ### Jan. 13: Corpora
 
-**Exercise:** Identify a texual primary source in closed format and transform it into plain text. Students are encouraged to identify a source from their own field of interest that includes quantitative as well as qualitative material (ideally in the form of lists). Suggested data-rich sources with broad coverage:
-
-- Almanach de Gotha, in French and German. [Hathi has 1880 - 1897 from Penn State]
-- English language equivalents include Burke's Peerage (UK), Social Register (US).
+**Exercise:** Identify a texual primary source in closed format and transform it into plain text. Students are encouraged to identify a source from their own field of interest that includes quantitative as well as qualitative material (ideally in the form of lists). A great example of a data-rich source with broad coverage is the [*Almanach de Gotha*](https://catalog.hathitrust.org/Record/001597627) (1763-1944), in French and German. English language equivalents, for those interested in names lists, include [*Burke's Peerage*](https://catalog.hathitrust.org/Record/000056027) (UK, from 1826) and [*Social Register*](https://catalog.hathitrust.org/Search/Home?lookfor=social%20register&searchtype=title&ft=ft&setft=true) (US, from the 1880s).
 
 **Reading:** Lemercier and Zalc
 
@@ -57,7 +54,7 @@ Every student will produce a website containing her or his transformed and enric
 ### Jan. 20: Infrastructure
 **Exercise:** Sign up for various computational services, and post material from last week's source to Github and Wikipedia.
 
-**Slow Tools:** Github, Stack Overflow, Wikipedia, Zenodo
+**Slow Tools:** Github, Stack Overflow, Wikipedia, Zenodo, Wikidata
 
 ---
 
