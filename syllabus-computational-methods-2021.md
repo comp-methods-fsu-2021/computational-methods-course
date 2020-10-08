@@ -21,6 +21,7 @@ By the end of this course, students will have
 
 ### Online:
 - Catherine D’Ignazio and Lauren Klein, [*Data Feminism*](https://data-feminism.mitpress.mit.edu/pub/frfa9szd/release/3?readingCollection=0cd867ef) (MIT Press, 2020).
+- [*The Programming Historian*](https://programminghistorian.org/)
 
 ## Grading
 **Weekly exercises (5% per week) 70%** 
