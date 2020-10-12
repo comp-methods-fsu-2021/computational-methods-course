@@ -13,7 +13,8 @@ By the end of this course, students will have
 - developed confidence to follow tutorials and ask questions related to their computational research needs
 - produced a web presence (including a website) showcasing the products of their research
 
-**Note on graduate tracking:** This is a methods course, but for the purposes of graduate tracking, it can instead be assigned to a regional or topical field if your work focuses around content in that field. To do so, satisfy these conditions: a) choose a source rich in content from the field, and b) produce a website ably deploying that source in its rich context.
+### Note on graduate tracking: 
+This is a methods course, but for the purposes of graduate tracking, it can instead be assigned to a regional or topical field if your work focuses around content in that field. To do so, satisfy these conditions: a) choose a source rich in content from the field, and b) produce a website ably deploying that source in its rich context.
 
 ## Required Materials
 ### In hard copy:
