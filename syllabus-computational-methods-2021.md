@@ -41,7 +41,7 @@ Every student will produce a website containing her or his transformed and enric
 
 **Exercise:** Find a text of interest to you already in rough digital form, e.g. from [archive.org](https://archive.org/); perform quick transformations, use simple web-based tools. [Instructions](https://github.com/whanley/computational-methods-course/blob/master/exercises/01-Introduction.md)
 
-**Suggested tutorial**: Laura Turner O'Hara, "Cleaning OCR’d text with Regular Expressions," The Programming Historian 2 (2013), https://doi.org/10.46430/phen0024.
+**Suggested tutorial** (ignore for now the second half of the lesson, which uses the Python programming language): Laura Turner O'Hara, "Cleaning OCR’d text with Regular Expressions," The Programming Historian 2 (2013), https://doi.org/10.46430/phen0024. 
 
 **Quick Tool:** [Sublime Text](https://www.sublimetext.com/), [Regexr](https://regexr.com/), [Voyant](https://voyant-tools.org/), [Palladio](http://hdlab.stanford.edu/palladio/)
 
