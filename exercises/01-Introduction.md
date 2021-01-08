@@ -56,7 +56,7 @@ Joey	Doughy
 
 This is a table that you can then paste into Palladio. Then, use palladio to explore the list.
 
-Programming historian has a great introduction to regular expression work of this sort: Laura Turner O'Hara, "[Cleaning OCR’d text with Regular Expressions](https://programminghistorian.org/en/lessons/cleaning-ocrd-text-with-regular-expressions)," The Programming Historian 2 (2013), https://doi.org/10.46430/phen0024.
+Programming historian has a useful introduction to regular expression work of this sort (ignore for now the second half of the lesson, which uses the Python programming language): Laura Turner O'Hara, "[Cleaning OCR’d text with Regular Expressions](https://programminghistorian.org/en/lessons/cleaning-ocrd-text-with-regular-expressions)," The Programming Historian 2 (2013), https://doi.org/10.46430/phen0024.
 
 
 ## 7. Submit results
