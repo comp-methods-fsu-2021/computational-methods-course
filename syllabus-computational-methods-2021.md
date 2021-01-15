@@ -39,7 +39,7 @@ Every student will produce a website containing her or his transformed and enric
 
 ### Jan. 6: Introduction
 
-**Exercise:** Find a text of interest to you already in rough digital form, e.g. from [archive.org](https://archive.org/); perform quick transformations, using simple web-based tools. [Instructions](https://github.com/whanley/computational-methods-course/blob/master/exercises/01-Introduction.md)
+**Exercise 1:** Find a text of interest to you already in rough digital form, e.g. from [archive.org](https://archive.org/); perform quick transformations, using simple web-based tools. [Instructions](https://github.com/whanley/computational-methods-course/blob/master/exercises/01-Introduction.md)
 
 **Suggested tutorial** (ignore for now the second half of the lesson, which uses the Python programming language): Laura Turner O'Hara, "Cleaning OCR’d text with Regular Expressions," The Programming Historian 2 (2013), https://doi.org/10.46430/phen0024. 
 
@@ -49,7 +49,7 @@ Every student will produce a website containing her or his transformed and enric
 
 ### Jan. 13: Corpora
 
-**Exercise:** Identify a texual primary source in closed format and transform it into plain text. Students are encouraged to identify a source from their own field of interest that includes quantitative as well as qualitative material (ideally in the form of lists). A great example of a data-rich source with broad coverage is the [*Almanach de Gotha*](https://catalog.hathitrust.org/Record/001597627) (1763-1944), in French and German. English language equivalents, for those interested in names lists, include [*Burke's Peerage*](https://catalog.hathitrust.org/Record/000056027) (UK, from 1826) and [*Social Register*](https://catalog.hathitrust.org/Search/Home?lookfor=social%20register&searchtype=title&ft=ft&setft=true) (US, from the 1880s).
+**Exercise 2:** Identify a texual primary source in closed format and transform it into plain text. Students are encouraged to identify a source from their own field of interest that includes quantitative as well as qualitative material (ideally in the form of lists). A great example of a data-rich source with broad coverage is the [*Almanach de Gotha*](https://catalog.hathitrust.org/Record/001597627) (1763-1944), in French and German. English language equivalents, for those interested in names lists, include [*Burke's Peerage*](https://catalog.hathitrust.org/Record/000056027) (UK, from 1826) and [*Social Register*](https://catalog.hathitrust.org/Search/Home?lookfor=social%20register&searchtype=title&ft=ft&setft=true) (US, from the 1880s).
 
 **Reading:** Lemercier and Zalc, Introduction, Chs. 1 & 2.
 
@@ -58,7 +58,7 @@ Every student will produce a website containing her or his transformed and enric
 ---
 
 ### Jan. 20: Infrastructure
-**Exercise:** Sign up for various computational services, and post material from last week's source to Github and Wikipedia.
+**Exercise 3:** Sign up for various computational services, and post material from last week's source to Github and Wikipedia.
 
 **Reading:** Lemercier and Zalc, Ch. 3.
 
@@ -67,7 +67,7 @@ Every student will produce a website containing her or his transformed and enric
 ---
 
 ### Jan. 27: Open Formats I
-**Exercise:** Post a cleaned open format version of your primary source, regularized using regular expressions. Post a file documenting the cleaning process.
+**Exercise 4:** Post a cleaned open format version of your primary source, regularized using regular expressions. Post a file documenting the cleaning process.
 
 **Suggested tutorial:** Dennis Tenen and Grant Wythoff, "Sustainable Authorship in Plain Text using Pandoc and Markdown," The Programming Historian 3 (2014), https://doi.org/10.46430/phen0041.
 
@@ -76,7 +76,7 @@ Every student will produce a website containing her or his transformed and enric
 ---
 
 ### Feb. 3: Cleaning I
-**Exercise:** Post a cleaned, regularized set of tables derived from a transformation of your primary source.
+**Exercise 5:** Post a cleaned, regularized set of tables derived from a transformation of your primary source.
 
 **Reading:** Lemercier and Zalc, Ch. 4.
 
@@ -86,7 +86,7 @@ Every student will produce a website containing her or his transformed and enric
 ---
 
 ### Feb. 10: Visualization I
-**Exercise:** Share a range of visualizations of your primary source.
+**Exercise 6:** Share a range of visualizations of your primary source.
 
 **Reading:** Healy, Preface, Ch. 1.
 
@@ -96,7 +96,7 @@ Every student will produce a website containing her or his transformed and enric
 ---
 
 ### Feb. 17: Quantification I
-**Exercise:** Share an R workbook visualizing material from your primary source.
+**Exercise 7:** Share an R workbook visualizing material from your primary source.
 
 **Reading:** Healy, Chs. 2-3.
 
@@ -105,14 +105,14 @@ Every student will produce a website containing her or his transformed and enric
 ---
 
 ### Feb. 24: Sharing I
-**Exercise:** Make a preliminary version of your Hugo or Jekyll website live.
+**Exercise 8:** Make a preliminary version of your Hugo or Jekyll website live.
 
 **Slow Tool:** [Hugo](https://gohugo.io/) or [Jekyll](https://jekyllrb.com/)
 
 ---
 
 ### Mar. 3: Text Mining
-**Exercise:** Produce word frequency comparison between your primary source and appropriate reference sources.
+**Exercise 9:** Produce word frequency comparison between your primary source and appropriate reference sources.
 
 **Reading:** Underwood
 
@@ -121,7 +121,7 @@ Every student will produce a website containing her or his transformed and enric
 ---
 
 ### Mar. 10: Categorization
-**Exercise:** Upload some data byproducts to Wikidata.
+**Exercise 10:** Upload some data byproducts to Wikidata.
 
 **Reading:** D’Ignazio and Klein
 
@@ -130,22 +130,22 @@ Every student will produce a website containing her or his transformed and enric
 ---
 
 ### Mar. 17: Open Formats II
-**Exercise:** Enriched, cleaned primary source posted to website.
+**Exercise 11:** Enriched, cleaned primary source posted to website.
 
 ---
 
 ### Mar. 24: Quantification II
-**Exercise:** Enriched, cleaned data tables derived from primary source posted to website.
+**Exercise 12:** Enriched, cleaned data tables derived from primary source posted to website.
 
 ---
 
 ### Mar. 31: Cleaning II
-**Exercise:** Documentation posted to website.
+**Exercise 13:** Documentation posted to website.
 
 ---
 
 ### Apr. 7: Visualization II
-**Exercise:** Data visualizations and workbooks posted to website.
+**Exercise 14:** Data visualizations and workbooks posted to website.
 
 ---
 
