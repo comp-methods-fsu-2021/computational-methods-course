@@ -58,7 +58,7 @@ Every student will produce a website containing her or his transformed and enric
 ---
 
 ### Jan. 20: Infrastructure
-**Exercise:** Sign up for various computational services, and post material from last week's source to Github and Wikipedia.
+**Exercise:** Sign up for various computational services, and post material from last week's source to Github and Wikipedia. [Instructions](https://github.com/whanley/computational-methods-course/blob/master/exercises/03-services.md)
 
 **Reading:** Lemercier and Zalc, Ch. 3.
 
