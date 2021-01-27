@@ -78,7 +78,10 @@ Every student will produce a website containing her or his transformed and enric
 ### Feb. 3: Cleaning I
 **Exercise:** Post a cleaned, regularized set of tables derived from a transformation of your primary source.
 
-**Reading:** Lemercier and Zalc, Ch. 4.
+**Reading:** 
+- Lemercier and Zalc, Ch. 4.
+- Ryan Cordell, “‘Q i-Jtb the Raven’: Taking Dirty OCR Seriously.” Book History 20, no. 1 (October 25, 2017): 188–225. https://doi.org/10.1353/bh.2017.0006.
+- Katie Rawson and Trevor Muñoz, "Against Cleaning" (2016). http://curatingmenus.org/articles/against-cleaning/
 
 **Quick Tool:** Google Sheets, Microsoft Excel, [Breve](http://hdlab.stanford.edu/breve/)
 **Slow Tool:** [Open Refine](https://openrefine.org/)
