@@ -69,6 +69,10 @@ Every student will produce a website containing her or his transformed and enric
 ### Jan. 27: Open Formats I
 **Exercise:** Post a cleaned open format version of your primary source, regularized using regular expressions. Post a file documenting the cleaning process.
 
+**Reading:** 
+- Ryan Cordell, “‘Q i-Jtb the Raven’: Taking Dirty OCR Seriously.” Book History 20, no. 1 (October 25, 2017): 188–225. https://doi.org/10.1353/bh.2017.0006.
+- Katie Rawson and Trevor Muñoz, "Against Cleaning" (2016). http://curatingmenus.org/articles/against-cleaning/
+
 **Suggested tutorial:** Dennis Tenen and Grant Wythoff, "Sustainable Authorship in Plain Text using Pandoc and Markdown," The Programming Historian 3 (2014), https://doi.org/10.46430/phen0041.
 
 **Quick Tool:** [Regular expressions](https://regexr.com)
@@ -80,8 +84,6 @@ Every student will produce a website containing her or his transformed and enric
 
 **Reading:** 
 - Lemercier and Zalc, Ch. 4.
-- Ryan Cordell, “‘Q i-Jtb the Raven’: Taking Dirty OCR Seriously.” Book History 20, no. 1 (October 25, 2017): 188–225. https://doi.org/10.1353/bh.2017.0006.
-- Katie Rawson and Trevor Muñoz, "Against Cleaning" (2016). http://curatingmenus.org/articles/against-cleaning/
 
 **Quick Tool:** Google Sheets, Microsoft Excel, [Breve](http://hdlab.stanford.edu/breve/)
 **Slow Tool:** [Open Refine](https://openrefine.org/)
