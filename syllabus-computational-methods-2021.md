@@ -67,9 +67,9 @@ Every student will produce a website containing her or his transformed and enric
 ---
 
 ### Jan. 27: Open Formats I
-**Exercise:** Post a cleaned open format version of your primary source, regularized using regular expressions. Post a file documenting the cleaning process.
+**Exercise:** Post a cleaned open format version of your primary source, regularized using regular expressions. Post a file documenting the cleaning process. [Instructions](https://github.com/whanley/computational-methods-course/blob/master/exercises/04-cleaning.md)
 
-**Reading:** 
+**Reading:**
 - Ryan Cordell, “‘Q i-Jtb the Raven’: Taking Dirty OCR Seriously.” Book History 20, no. 1 (October 25, 2017): 188–225. https://doi.org/10.1353/bh.2017.0006.
 - Katie Rawson and Trevor Muñoz, "Against Cleaning" (2016). http://curatingmenus.org/articles/against-cleaning/
 
@@ -82,7 +82,7 @@ Every student will produce a website containing her or his transformed and enric
 ### Feb. 3: Cleaning I
 **Exercise:** Post a cleaned, regularized set of tables derived from a transformation of your primary source.
 
-**Reading:** 
+**Reading:**
 - Lemercier and Zalc, Ch. 4.
 
 **Quick Tool:** Google Sheets, Microsoft Excel, [Breve](http://hdlab.stanford.edu/breve/)
