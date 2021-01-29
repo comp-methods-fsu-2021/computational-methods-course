@@ -19,7 +19,7 @@ Think carefully about how your text file should be structured. For some of you, 
 
 To do this work, use regular expressions to find line breaks that you want to eliminate or introduce.
 
-For example, to remove mid-sentence line breaks, try a case-sensitive search for `()[a-z]) ?\n(?=[a-z])` and replace it with `$1 `. There will certainly be errors and mis-steps. Use them to learn more about the patterns in your text.
+For example, to remove mid-sentence line breaks, try a case-sensitive search for `([a-z]) ?\n(?=[a-z])` and replace it with `$1 `. There will certainly be errors and mis-steps. Use them to learn more about the patterns in your text.
 
 ### 3. Intermediate divisions
 The most challenging and useful part of this exercise is to discover intermediate divisions within your file and to isolate and identify them with unambiguous tags. Are separate articles introduced with a pattern, such as a double line break or a headline in ALL CAPS? How are page headers formatted? Where are the page numbers? Find them and mark them with unambiguous codes that you can find again.
