@@ -39,7 +39,7 @@ Every student will produce a website containing her or his transformed and enric
 
 ### Jan. 6: Introduction
 
-**Exercise:** Find a text of interest to you already in rough digital form, e.g. from [archive.org](https://archive.org/); perform quick transformations, using simple web-based tools. [Instructions](https://github.com/whanley/computational-methods-course/blob/master/exercises/01-Introduction.md)
+**Exercise:** Find a text of interest to you already in rough digital form, e.g. from [archive.org](https://archive.org/); perform quick transformations, using simple web-based tools. [Instructions](https://github.com/comp-methods-fsu-2021/computational-methods-course/blob/master/exercises/01-Introduction.md)
 
 **Suggested tutorial** (ignore for now the second half of the lesson, which uses the Python programming language): Laura Turner O'Hara, "Cleaning OCR’d text with Regular Expressions," The Programming Historian 2 (2013), https://doi.org/10.46430/phen0024.
 
@@ -49,7 +49,7 @@ Every student will produce a website containing her or his transformed and enric
 
 ### Jan. 13: Corpora
 
-**Exercise:** Identify a texual primary source in closed format and transform it into plain text. Students are encouraged to identify a source from their own field of interest that includes quantitative as well as qualitative material (ideally in the form of lists). A great example of a data-rich source with broad coverage is the [*Almanach de Gotha*](https://catalog.hathitrust.org/Record/001597627) (1763-1944), in French and German. English language equivalents, for those interested in names lists, include [*Burke's Peerage*](https://catalog.hathitrust.org/Record/000056027) (UK, from 1826) and [*Social Register*](https://catalog.hathitrust.org/Search/Home?lookfor=social%20register&searchtype=title&ft=ft&setft=true) (US, from the 1880s). [Instructions](https://github.com/whanley/computational-methods-course/blob/master/exercises/02-corpus.md)
+**Exercise:** Identify a texual primary source in closed format and transform it into plain text. Students are encouraged to identify a source from their own field of interest that includes quantitative as well as qualitative material (ideally in the form of lists). A great example of a data-rich source with broad coverage is the [*Almanach de Gotha*](https://catalog.hathitrust.org/Record/001597627) (1763-1944), in French and German. English language equivalents, for those interested in names lists, include [*Burke's Peerage*](https://catalog.hathitrust.org/Record/000056027) (UK, from 1826) and [*Social Register*](https://catalog.hathitrust.org/Search/Home?lookfor=social%20register&searchtype=title&ft=ft&setft=true) (US, from the 1880s). [Instructions](https://github.com/comp-methods-fsu-2021/computational-methods-course/blob/master/exercises/02-corpus.md)
 
 **Reading:** Lemercier and Zalc, Introduction, Chs. 1 & 2.
 
@@ -58,7 +58,7 @@ Every student will produce a website containing her or his transformed and enric
 ---
 
 ### Jan. 20: Infrastructure
-**Exercise:** Sign up for various computational services, and post material from last week's source to Github and Wikipedia. [Instructions](https://github.com/whanley/computational-methods-course/blob/master/exercises/03-services.md)
+**Exercise:** Sign up for various computational services, and post material from last week's source to Github and Wikipedia. [Instructions](https://github.com/comp-methods-fsu-2021/computational-methods-course/blob/master/exercises/03-services.md)
 
 **Reading:** Lemercier and Zalc, Ch. 3.
 
@@ -67,7 +67,7 @@ Every student will produce a website containing her or his transformed and enric
 ---
 
 ### Jan. 27: Open Formats I
-**Exercise:** Post a cleaned open format version of your primary source, regularized using regular expressions. Post a file documenting the cleaning process. [Instructions](https://github.com/whanley/computational-methods-course/blob/master/exercises/04-cleaning.md)
+**Exercise:** Post a cleaned open format version of your primary source, regularized using regular expressions. Post a file documenting the cleaning process. [Instructions](https://github.com/comp-methods-fsu-2021/computational-methods-course/blob/master/exercises/04-cleaning.md)
 
 **Reading:**
 - Ryan Cordell, “‘Q i-Jtb the Raven’: Taking Dirty OCR Seriously.” Book History 20, no. 1 (October 25, 2017): 188–225. https://doi.org/10.1353/bh.2017.0006.
