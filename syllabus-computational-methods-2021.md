@@ -95,8 +95,8 @@ Every student will produce a website containing her or his transformed and enric
 
 **Reading:** Healy, Preface, Ch. 1.
 
-**Quick Tool:** [Raw Graphs](https://app.rawgraphs.io/), [Google Data Studio](https://datastudio.google.com/overview)
-**Slow Tool:** [Tableau](https://public.tableau.com/en-us/s/)
+**Quick Tool:** [Raw Graphs](https://app.rawgraphs.io/)
+**Slow Tool:** [Tableau](https://public.tableau.com/en-us/s/), [Google Data Studio](https://datastudio.google.com/overview)
 
 ---
 
