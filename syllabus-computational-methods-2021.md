@@ -66,7 +66,7 @@ Every student will produce a website containing her or his transformed and enric
 
 ---
 
-### Jan. 27: Open Formats I
+### Jan. 27: Cleaning I
 **Exercise:** Post a cleaned open format version of your primary source, regularized using regular expressions. Post a file documenting the cleaning process. [Instructions](https://github.com/comp-methods-fsu-2021/computational-methods-course/blob/master/exercises/04-cleaning.md)
 
 **Reading:**
@@ -79,8 +79,8 @@ Every student will produce a website containing her or his transformed and enric
 
 ---
 
-### Feb. 3: Cleaning I
-**Exercise:** Post a cleaned, regularized set of tables derived from a transformation of your primary source.
+### Feb. 3: Open Format Data I
+**Exercise:** Post a cleaned, regularized set of tabular data derived from a transformation of your primary source. [Instructions](https://github.com/comp-methods-fsu-2021/computational-methods-course/blob/master/exercises/05-tab-data.md)
 
 **Reading:**
 - Lemercier and Zalc, Ch. 4.
@@ -91,7 +91,7 @@ Every student will produce a website containing her or his transformed and enric
 ---
 
 ### Feb. 10: Visualization I
-**Exercise:** Share a range of visualizations of your primary source.
+**Exercise:** Share a range of visualizations of your primary source. [Instructions](https://github.com/comp-methods-fsu-2021/computational-methods-course/blob/master/exercises/06-visualiztion.md)
 
 **Reading:** Healy, Preface, Ch. 1.
 
