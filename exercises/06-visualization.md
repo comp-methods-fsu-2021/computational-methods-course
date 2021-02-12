@@ -10,8 +10,8 @@ Use the tabular data file that you produced last week as a base. The aim at this
 Paste your tabular data into [Breve](https://hdlab.stanford.edu/breve/), to see its formats and gaps. Breve suggests different markers (such as punctuation) that might allow you to further parse your columns. Consider what further parsing might achieve.
 
 ## 2. Tableau or Google Design Studio
-You only need to try one of Google Data Studio](https://datastudio.google.com/overview)
-or [Tableau](https://public.tableau.com/en-us/s/), though each has its own virtues. Both of these visualization applications rely on connections with an external dataset. You can make changes to this dataset, and the visualizations will reflect those changes when refreshed. 
+You only need to try one of [Google Data Studio](https://datastudio.google.com/overview)
+or [Tableau](https://public.tableau.com/en-us/s/), though each has its own virtues. Both of these visualization applications rely on connections with an external dataset. You can make changes to this dataset, and the visualizations will reflect those changes when refreshed.
 
 Make a link with your tabular data, and begin to see what datatypes the visualization software identifies. Most humanities projects will have a few different types: strings (i.e., of text), numbers, dates, and geolocations. Each of these will function differently in the visualization program. Make sure that the program is recognizing the format you intend.
 
