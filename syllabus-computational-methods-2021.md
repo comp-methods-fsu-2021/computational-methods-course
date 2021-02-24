@@ -112,6 +112,8 @@ Every student will produce a website containing her or his transformed and enric
 ### Feb. 24: Sharing I
 **Exercise:** Make a preliminary version of your Hugo or Jekyll website live.
 
+**Reading:** Amanda Visconti, "[Building a static website with Jekyll and GitHub Pages](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages)," _Programming Historian_.
+
 **Slow Tool:** [Hugo](https://gohugo.io/) or [Jekyll](https://jekyllrb.com/)
 
 ---
