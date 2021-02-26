@@ -121,7 +121,7 @@ Every student will produce a website containing her or his transformed and enric
 ### Mar. 3: Text Mining
 **Exercise:** Produce word frequency comparison between your primary source and appropriate reference sources.
 
-**Reading:** Underwood
+**Reading:** Underwood, Preface, Chs. 1 & 2, Appendices A & B
 
 **Quick Tool:** [TopicModelingTool](https://senderle.github.io/topic-modeling-tool/documentation/2017/01/06/quickstart.html)
 
