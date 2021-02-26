@@ -105,12 +105,12 @@ Every student will produce a website containing her or his transformed and enric
 
 **Reading:** Healy, Chs. 2-3.
 
-**Slow Tool:** [R Studio](https://rstudio.com/)
+**Slow Tool:** [R Studio](https://rstudio.com/), its [Cheatsheets](https://rstudio.com/resources/cheatsheets/)
 
 ---
 
 ### Feb. 24: Sharing I
-**Exercise:** Make a preliminary version of your Hugo or Jekyll website live.
+**Exercise:** Make a preliminary version of your Hugo or Jekyll website live. [Instructions](https://github.com/comp-methods-fsu-2021/computational-methods-course/blob/master/exercises/08-website.md)
 
 **Reading:** Amanda Visconti, "[Building a static website with Jekyll and GitHub Pages](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages)," _Programming Historian_.
 
