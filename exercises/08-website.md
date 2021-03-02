@@ -5,6 +5,8 @@ Your deliverable this week is a website. This will be an evolving product. Below
 ### 1. Jekyll basics
 Read and follow this tutorial: Amanda Visconti, "[Building a static website with Jekyll and GitHub Pages](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages)," _Programming Historian_. It will give you a working github.io website.
 
+Note: please make your GitHub Pages site a repository in your own account. It will not work as a repo on our shared Computational Methods organization. Also, you will have to make the repository public in order for GitHub Pages to publish it.
+
 ### 2. Populate your website
 - Make sure that your website links to your various ids (FSU, github, ORCID, etc)
 - Transform some of your work from previous weeks into markdown pages and post them to your website. Start with a description of your chosen plain text source.
