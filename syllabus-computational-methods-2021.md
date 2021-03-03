@@ -23,6 +23,7 @@ This is a methods course, but for the purposes of graduate tracking, it can inst
 - Kieran Healy, [*Data Visualization: A Practical Introduction*](https://press.princeton.edu/books/hardcover/9780691181615/data-visualization) (Princeton University Press, 2019). [companion website](https://socviz.co/)
 
 ### Online:
+- Ruth Ahnert, Sebastian E. Ahnert, Catherine Nicole Coleman, and Scott B. Weingart, [*The Network Turn*](https://www.cambridge.org/core/elements/network-turn/CC38F2EA9F51A6D1AFCB7E005218BBE5/core-reader) (Cambridge, 2020).
 - Catherine D’Ignazio and Lauren Klein, [*Data Feminism*](https://data-feminism.mitpress.mit.edu/) (MIT Press, 2020).
 - [*The Programming Historian*](https://programminghistorian.org/)
 
@@ -130,7 +131,7 @@ Every student will produce a website containing her or his transformed and enric
 ### Mar. 10: Categorization
 **Exercise:** Upload some data byproducts to Wikidata.
 
-**Reading:** D’Ignazio and Klein, Introduction, Chs. 4-7.
+**Reading:** D’Ignazio and Klein, Introduction, Chs. 1-4; Underwood, Ch. 4.
 
 **Slow Tools:** SPARQL, Wikidata
 
@@ -139,20 +140,28 @@ Every student will produce a website containing her or his transformed and enric
 ### Mar. 17: Open Formats II
 **Exercise:** Enriched, cleaned primary source posted to website.
 
+**Reading:** D’Ignazio and Klein, Chs. 5-7; Underwood, Ch. 3; Ahnert et al., Introduction and Part I.
+
 ---
 
 ### Mar. 24: Quantification II
 **Exercise:** Enriched, cleaned data tables derived from primary source posted to website.
+
+**Reading:** Healy, Chs. 4-5; Underwood, Ch. 5.
 
 ---
 
 ### Mar. 31: Cleaning II
 **Exercise:** Documentation posted to website.
 
+**Reading:** Ahnert et al., Parts II and III, epilogue.
+
 ---
 
 ### Apr. 7: Visualization II
 **Exercise:** Data visualizations and workbooks posted to website.
+
+**Reading:** Healy, Chs. 7-8.
 
 ---
 

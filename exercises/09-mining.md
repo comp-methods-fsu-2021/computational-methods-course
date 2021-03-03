@@ -16,6 +16,10 @@ Each row of this single CSV file will describe a text file in the plain text fol
 
 Install the Topic Modeling Tool according to its quick start guide. Run a few trials of topic models, using different numbers of topics. Find a set that seems to capture some pattern of variance between your texts.
 
-### 4. Report
+### 4. Identify reference models
 
-Write a brief blog-style description of your preliminary results, and post to your website. 
+This is the most hard-to-pin-down aspect of the exercise. As Underwood makes clear, our topics do not make sense in the ether. They make sense in the context of models, received from our own scholarly traditions. Can you identify some of these models, in a format that you can operationalize?
+
+### 5. Report
+
+Write a brief blog-style description of your preliminary results, and post to your website.
