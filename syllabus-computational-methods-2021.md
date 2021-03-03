@@ -23,7 +23,7 @@ This is a methods course, but for the purposes of graduate tracking, it can inst
 - Kieran Healy, [*Data Visualization: A Practical Introduction*](https://press.princeton.edu/books/hardcover/9780691181615/data-visualization) (Princeton University Press, 2019). [companion website](https://socviz.co/)
 
 ### Online:
-- Catherine D’Ignazio and Lauren Klein, [*Data Feminism*](https://data-feminism.mitpress.mit.edu/pub/frfa9szd/release/3?readingCollection=0cd867ef) (MIT Press, 2020).
+- Catherine D’Ignazio and Lauren Klein, [*Data Feminism*](https://data-feminism.mitpress.mit.edu/) (MIT Press, 2020).
 - [*The Programming Historian*](https://programminghistorian.org/)
 
 ## Grading
@@ -119,18 +119,18 @@ Every student will produce a website containing her or his transformed and enric
 ---
 
 ### Mar. 3: Text Mining
-**Exercise:** Produce word frequency comparison between your primary source and appropriate reference sources.
+**Exercise:** Produce word frequency comparison between your primary source and appropriate reference sources. [Instructions](https://github.com/comp-methods-fsu-2021/computational-methods-course/blob/master/exercises/09-mining.md)
 
 **Reading:** Underwood, Preface, Chs. 1 & 2, Appendices A & B
 
-**Quick Tool:** [TopicModelingTool](https://senderle.github.io/topic-modeling-tool/documentation/2017/01/06/quickstart.html)
+**Quick Tool:** [Voyant](https://voyant-tools.org/), [TopicModelingTool](https://senderle.github.io/topic-modeling-tool/documentation/2017/01/06/quickstart.html)
 
 ---
 
 ### Mar. 10: Categorization
 **Exercise:** Upload some data byproducts to Wikidata.
 
-**Reading:** D’Ignazio and Klein
+**Reading:** D’Ignazio and Klein, Introduction, Chs. 4-7.
 
 **Slow Tools:** SPARQL, Wikidata
 
