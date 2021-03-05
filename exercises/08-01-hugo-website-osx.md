@@ -18,3 +18,8 @@ Navigate to the repository that you've just published on github.com. In "Setting
 
 ### 4. Behold your site
 In a minute or two, your site should be published at `https://<yourGitHubUserName>.github.io/quickstart/`.
+
+### 5. Adding content
+Now that you have a basic site running, you can learn to develop it. In Visconti's _Programming Historian_ lesson, the [tweaking the settings](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages#tweaking-the-settings-) section covers these basics in the context of jekyll. Hugo operates on similar principles, with slightly different semantics. For example, Jekyll's `_config.yml ` file is `config.toml` in Hugo, and Jekyll's `_posts` folder is Hugo's `content` folder.
+
+The particular Hugo configuration requirements are specific to each [theme](https://themes.gohugo.io/), and you will have to experiment in order to get things right. Fortunately, this is easy using localhost. Themes with good documentation will tend to be easiest to use. The documentation is typically in the theme's README.md file on Github, or on the Homepage linked via Hugo's [theme directory](https://themes.gohugo.io/).
