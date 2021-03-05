@@ -14,7 +14,7 @@ It is available [here](https://gohugo.io/getting-started/quick-start/). Follow i
 In GitHub Desktop, choose File > Add Local Repository... Select your `quickstart` folder. Then, commit your initial changes to master, and publish the repository.
 
 ### 3. Change the settings on GitHub to publish the site
-Navigate to the repository that you've just published on github.com. In "Settings" (a tab on the top right), scroll down to GitHub Pages. Set the Source as `Branch:master` and the folder as `/docs`, then press Save.
+Navigate to the repository that you've just published on github.com. In "Settings" (a tab on the top right), under "Manage Access," set the site to public. Then, scroll to the GitHub Pages section. Set the Source as `Branch:master` and the folder as `/docs`, then press Save.
 
 ### 4. Behold your site
 In a minute or two, your site should be published at `https://<yourGitHubUserName>.github.io/quickstart/`.
