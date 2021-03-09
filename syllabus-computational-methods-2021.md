@@ -111,7 +111,7 @@ Every student will produce a website containing her or his transformed and enric
 ---
 
 ### Feb. 24: Sharing I
-**Exercise:** Make a preliminary version of your Hugo or Jekyll website live. [Instructions](https://github.com/comp-methods-fsu-2021/computational-methods-course/blob/master/exercises/08-website.md) [Instructions addendum (Hugo)](https://github.com/comp-methods-fsu-2021/computational-methods-course/blob/master/exercises/08-01-hugo-website-osx.md)
+**Exercise:** Make a preliminary version of your Hugo or Jekyll website live. [Instructions](https://github.com/comp-methods-fsu-2021/computational-methods-course/blob/master/exercises/08-website.md); for those who want to try Hugo: [Instructions addendum](https://github.com/comp-methods-fsu-2021/computational-methods-course/blob/master/exercises/08-01-hugo-website-osx.md)
 
 **Reading:** Amanda Visconti, "[Building a static website with Jekyll and GitHub Pages](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages)," _Programming Historian_.
 
