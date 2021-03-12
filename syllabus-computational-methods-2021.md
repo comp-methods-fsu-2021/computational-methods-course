@@ -129,7 +129,7 @@ Every student will produce a website containing her or his transformed and enric
 ---
 
 ### Mar. 10: Categorization
-**Exercise:** Upload some data byproducts to Wikidata.
+**Exercise:** Upload some data byproducts to Wikidata. [Instructions](https://github.com/comp-methods-fsu-2021/computational-methods-course/blob/master/exercises/10-linking.md)
 
 **Reading:** D’Ignazio and Klein, Introduction, Chs. 1-4; Underwood, Ch. 4.
 
