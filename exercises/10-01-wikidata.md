@@ -18,16 +18,16 @@ Let's take a closer look at these occupations. Each of is a subclass of one or m
 subclass|superclass|superclass|superclass|superclass|superclass|superclass
 ---|---|---|---|---|---|---
 [singer-songwriter](https://www.wikidata.org/wiki/Q488205)|[singer](https://www.wikidata.org/wiki/Q177220)|[vocalist](https://www.wikidata.org/wiki/Q2643890)|[musician](https://www.wikidata.org/wiki/Q639669)|[artist](https://www.wikidata.org/wiki/Q483501)|[professional](https://www.wikidata.org/wiki/Q702269)|[human](https://www.wikidata.org/wiki/Q5)
- |  ↳ |[musician](https://www.wikidata.org/wiki/Q639669)| --> |[artist](https://www.wikidata.org/wiki/Q483501)|[professional](https://www.wikidata.org/wiki/Q702269)|[human](https://www.wikidata.org/wiki/Q5)
+. |  ↳ |[musician](https://www.wikidata.org/wiki/Q639669)| --> |[artist](https://www.wikidata.org/wiki/Q483501)|[professional](https://www.wikidata.org/wiki/Q702269)|[human](https://www.wikidata.org/wiki/Q5)
  ↳ |[songwriter](https://www.wikidata.org/wiki/Q753110)|[composer](https://www.wikidata.org/wiki/Q36834)|[musician](https://www.wikidata.org/wiki/Q639669)|[artist](https://www.wikidata.org/wiki/Q483501)|[professional](https://www.wikidata.org/wiki/Q702269)|[human](https://www.wikidata.org/wiki/Q5)
- | ↳ |[author](https://www.wikidata.org/wiki/Q482980)|[creator](https://www.wikidata.org/wiki/Q2500638)|[professional](https://www.wikidata.org/wiki/Q702269)| --> |[human](https://www.wikidata.org/wiki/Q5)
- | | | ↳ |[producer](https://www.wikidata.org/wiki/Q13235160)|[source](https://www.wikidata.org/wiki/Q31464082)|[object](https://www.wikidata.org/wiki/Q488383)
+. | ↳ |[author](https://www.wikidata.org/wiki/Q482980)|[creator](https://www.wikidata.org/wiki/Q2500638)|[professional](https://www.wikidata.org/wiki/Q702269)| --> |[human](https://www.wikidata.org/wiki/Q5)
+. |. |. | ↳ |[producer](https://www.wikidata.org/wiki/Q13235160)|[source](https://www.wikidata.org/wiki/Q31464082)|[object](https://www.wikidata.org/wiki/Q488383)
 [singer](https://www.wikidata.org/wiki/Q177220)|[vocalist](https://www.wikidata.org/wiki/Q2643890)| --> |[musician](https://www.wikidata.org/wiki/Q639669)|[artist](https://www.wikidata.org/wiki/Q483501)|[professional](https://www.wikidata.org/wiki/Q702269)|[human](https://www.wikidata.org/wiki/Q5)
  ↳ |[musician](https://www.wikidata.org/wiki/Q639669)| --> | -->|[artist](https://www.wikidata.org/wiki/Q483501)|[professional](https://www.wikidata.org/wiki/Q702269)|[human](https://www.wikidata.org/wiki/Q5)
 [guitarist](https://www.wikidata.org/wiki/Q855091)|[instrumentalist](https://www.wikidata.org/wiki/Q1278335)| --> |[musician](https://www.wikidata.org/wiki/Q639669)|[artist](https://www.wikidata.org/wiki/Q483501)|[professional](https://www.wikidata.org/wiki/Q702269)|[human](https://www.wikidata.org/wiki/Q5)
 [composer](https://www.wikidata.org/wiki/Q36834)|[musician](https://www.wikidata.org/wiki/Q639669)| --> | -->|[artist](https://www.wikidata.org/wiki/Q483501)|[professional](https://www.wikidata.org/wiki/Q702269)|[human](https://www.wikidata.org/wiki/Q5)
  ↳ |[author](https://www.wikidata.org/wiki/Q482980)|[creator](https://www.wikidata.org/wiki/Q2500638)|[professional](https://www.wikidata.org/wiki/Q702269)| --> | --> |[human](https://www.wikidata.org/wiki/Q5)
- | |  ↳|[producer](https://www.wikidata.org/wiki/Q13235160)| --> |[source](https://www.wikidata.org/wiki/Q31464082)|[object](https://www.wikidata.org/wiki/Q488383)
+. |. |  ↳|[producer](https://www.wikidata.org/wiki/Q13235160)| --> |[source](https://www.wikidata.org/wiki/Q31464082)|[object](https://www.wikidata.org/wiki/Q488383)
 [recording artist](https://www.wikidata.org/wiki/Q55960555)|[musician](https://www.wikidata.org/wiki/Q639669)| --> | --> |[artist](https://www.wikidata.org/wiki/Q483501)|[professional](https://www.wikidata.org/wiki/Q702269)|[human](https://www.wikidata.org/wiki/Q5)
 
 A careful reading of this chain of classes immediately raises questions. What does duplication and circularity mean? Is an artist really a kind of professional? Is a producer a subclass of object?
