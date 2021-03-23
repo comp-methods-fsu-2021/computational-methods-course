@@ -138,28 +138,28 @@ Every student will produce a website containing her or his transformed and enric
 ---
 
 ### Mar. 17: Open Formats II
-**Exercise:** Enriched, cleaned primary source posted to website.
+**Exercise:** Enriched, cleaned primary source posted to website. [Instructions](https://github.com/comp-methods-fsu-2021/computational-methods-course/blob/master/exercises/11-posting.md)
 
 **Reading:** D’Ignazio and Klein, Chs. 5-7; Underwood, Ch. 3; Ahnert et al., Introduction and Part I.
 
 ---
 
 ### Mar. 24: Quantification II
-**Exercise:** Enriched, cleaned data tables derived from primary source posted to website.
+**Exercise:** Enriched, cleaned data tables derived from primary source posted to website. [Instructions](https://github.com/comp-methods-fsu-2021/computational-methods-course/blob/master/exercises/11-posting.md)
 
 **Reading:** Healy, Chs. 4-5; Underwood, Ch. 5.
 
 ---
 
 ### Mar. 31: Cleaning II
-**Exercise:** Documentation posted to website.
+**Exercise:** Documentation posted to website. [Instructions](https://github.com/comp-methods-fsu-2021/computational-methods-course/blob/master/exercises/11-posting.md)
 
 **Reading:** Ahnert et al., Parts II and III, epilogue.
 
 ---
 
 ### Apr. 7: Visualization II
-**Exercise:** Data visualizations and workbooks posted to website.
+**Exercise:** Data visualizations and workbooks posted to website. [Instructions](https://github.com/comp-methods-fsu-2021/computational-methods-course/blob/master/exercises/11-posting.md)
 
 **Reading:** Healy, Chs. 7-8.
 
